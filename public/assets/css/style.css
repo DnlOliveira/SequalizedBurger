@@ -1,0 +1,30 @@
+.container{
+  background-color: #85f0d6;
+  width: 100%;
+  height: 100%;
+}
+
+#page-header img{
+  display: block;
+  margin: auto;
+  width: 250px;
+  padding: 30px;
+}
+
+#input{
+  text-align: center;
+}
+#input-box{
+  width: 300px;
+  height: 100px;
+  margin: 0px auto;
+  font-size: 24px;
+}
+#input button{
+  margin: 15px;
+}
+
+#burgers, #devoured{
+  text-align: center;
+  list-style-position:inside;
+}
